@@ -1,12 +1,11 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: .5vmin solid red;
 }
+
 html {
-    border-radius: 25vmin;
-    width: 350px;
+    width: 300px;
     height: 200px;
     display: flex;
     flex-direction: column;
